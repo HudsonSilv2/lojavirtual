@@ -2,4 +2,4 @@
 
 //nova alteração no repositório
 
-texto alterado via github web.
+texto alterado via github web no navegador
